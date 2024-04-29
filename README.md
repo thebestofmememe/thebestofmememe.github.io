@@ -1,2 +1,2 @@
 # hello world
-if -u in push command has the same effect as --set-upstream
+push and pull cannot go without arguments if upstream unset,what about fetch
